@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZM_TEST2</ARBGB>
+    <MASTERLANG>D</MASTERLANG>
+    <STEXT>Nachrichtenklasse ZMTEST2</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZM_TEST2</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Tabellen wurden mit Testdaten gefüllt.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZM_TEST2</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Fehler bei Erstellen der JSON Datei.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZM_TEST2</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Fehler bei der Transformation.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZM_TEST2</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Fehler bei der JSON Konvertierung.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZM_TEST2</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Fehler bei Schreiben der Datei.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZM_TEST2</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Fehler bei erstellen des ALV OM.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZM_TEST2</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>JSON Datei wurde erfolgreich nach &amp;1 geschrieben.</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

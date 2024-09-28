@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZDE_BELNR</ROLLNAME>
+    <DDLANGUAGE>D</DDLANGUAGE>
+    <DOMNAME>CHAR10</DOMNAME>
+    <HEADLEN>37</HEADLEN>
+    <SCRLEN1>08</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>37</SCRLEN3>
+    <DDTEXT>Belegnummer eines Buchhaltungsbeleges</DDTEXT>
+    <REPTEXT>Belegnummer eines Buchhaltungsbeleges</REPTEXT>
+    <SCRTEXT_S>Belegnr.</SCRTEXT_S>
+    <SCRTEXT_M>Belegnummer Buchhal.</SCRTEXT_M>
+    <SCRTEXT_L>Belegnummer eines Buchhaltungsbeleges</SCRTEXT_L>
+    <DTELMASTER>D</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>
