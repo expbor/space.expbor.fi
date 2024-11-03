@@ -7,8 +7,6 @@ Example development for accounting to export open positions of creditor/ debitor
 
 ![grafik](https://github.com/user-attachments/assets/61fac328-1794-47d9-81b9-ea88f39de15b)
 
-![Development for SAP Finance](https://github.com/user-attachments/assets/23129373-3c04-4c23-9114-a229e5920621)
-
 ## Run the App
 
 ## License
