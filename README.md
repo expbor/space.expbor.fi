@@ -7,6 +7,3 @@ Example development for accounting to export open positions of creditor/ debitor
 
 ![grafik](https://github.com/user-attachments/assets/61fac328-1794-47d9-81b9-ea88f39de15b)
 
-## Run the App
-
-## License
